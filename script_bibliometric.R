@@ -4,17 +4,19 @@
 #  Programa de Pós-graduação em Saúde Coletiva/IESC/UFRJ                   #
 #  Doutorado, Linha de Pesquisa: Epidemiologia e Políticas de Saúde        #
 #  Orientadores: Antonio José Leal Costa e Natália Santana Paiva           #
-#  Artigo 1:                                     #
+#  Artigo 1:                                                               #
 #  "In God we trust; all others must bring data" (William Edwards Deming)  #
 #                                                                          #
-###########################################################################
+############################################################################
 
 #instalando o pacote principal versão CRAN que é atualizada mensalmente:
+#Se você estiver na região amazônica tentando intalar novamente um pacote 
+#e a sua internet for limitada, tente isso:
 
-#getOption('timeout')
-#options(timeout=300)
+getOption('timeout')
+options(timeout=300)
 
-#install.packages("bibliometrix", dependencies = TRUE)
+install.packages("bibliometrix", dependencies = TRUE)
 
 #install.packages("Matrix")
 
