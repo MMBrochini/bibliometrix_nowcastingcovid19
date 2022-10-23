@@ -4,6 +4,7 @@
 #  Programa de Pós-graduação em Saúde Coletiva/IESC/UFRJ                   #
 #  Doutorado, Linha de Pesquisa: Epidemiologia e Políticas de Saúde        #
 #  Orientadores: Antonio José Leal Costa e Natália Santana Paiva           #
+#  Bibliotecário: Roberto Unger                                            #
 #  Artigo 1:                                                               #
 #  "In God we trust; all others must bring data" (William Edwards Deming)  #
 #                                                                          #
